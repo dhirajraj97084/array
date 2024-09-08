@@ -31,9 +31,7 @@ int main()
      for (int i = 0; i < n; i++)
     {
         if(arr[i]>50){
-            cout << arr[i] << " "; 
-            int add_2=(arr[i]+2);
-            cout<<add_2<<endl;
+            cout << arr[i] << " ";            
         }
     } 
 
